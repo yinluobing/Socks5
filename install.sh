@@ -87,7 +87,7 @@ Download()
 echo ""
 echo "下载Socks5服务中..."
 cd  /root
-git clone https://github.com/wyx176/Socks5
+git clone https://github.com/yinluobing/Socks5
 }
 
 
@@ -178,7 +178,7 @@ clear
   echo ""
   echo "缺失文件，安装失败！！！"
   echo "错误提示："${errorMsg}
-  echo "发送邮件反馈bug ：wyx176@gmail.com"
+  echo "发送邮件反馈bug ：yinluobing@163.com"
   echo "或者添加Telegram群反馈"
   echo "Telegram群：t.me/Socks55555"
   exit 0
