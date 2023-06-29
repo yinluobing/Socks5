@@ -1,7 +1,7 @@
 #!/bin/bash
 #Set PATH
 
-resName="wyx176"
+resName="yinluobing"
 serviceFile=/etc/opt/ss5/service.sh
 newVersionMsg=`curl -s -L  https://raw.githubusercontent.com/${resName}/Socks5/master/update.txt`
 
